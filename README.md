@@ -1,4 +1,16 @@
-# Mathuran Sadagopan
+# About me
+I'm currently a 3rd-year Computer Engineering Student at McMaster. I'm really interested in working in the IoT space, as well as in AR/VR. I have experience doing web development and robotics from past work experience, projects and competitions. 
+## Main interest 
+
+# Skills
+
+# Education
+
+# Experience
+
+# Projects
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Mathuran/mathuran.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
