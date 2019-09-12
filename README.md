@@ -41,6 +41,16 @@ Created responsive and intuitive web applications using React JS and Vue for the
 
 ### [Tesla Coil | 2017]()
 •	Built a device that generated an electromagnetic resonance field.
-•	Can amplify a voltage to create large sparks of lightning as well as power light bulbs wirelessly  
+•	Can amplify a voltage to create large sparks of lightning as well as power light bulbs wirelessly 
+
+## Contact Info
+
+Feel free to contact me!
+
+![](phone.svg) 647-447-3024
+
+![](email.svg) mathuransada@gmail.com
+
+![](linkedin-logo.png) linkedin.com/in/mathuransada/
 
 
