@@ -1,50 +1,28 @@
 # About me
 I'm currently a 3rd-year Computer Engineering Student at McMaster. I'm really interested in working in the IoT space, as well as in AR/VR. I have experience doing web development and robotics from past work experience, projects and competitions. 
-## Main interest 
+ 
 
 # Skills
+Programming |
+------------
+React.js, JavaScript, Vue.js; C, C++, Java, Go, MATLAB, Git |
 
-# Education
+Hardware Development |
+------------
+Arduino, Raspberry Pi, FPGA, Verilog, PSpice, MATLAB Simulink |
 
-# Experience
+3D modelling |
+------------
+Inventor, 3D Printing, Cura  |
 
-# Projects
+## Education
+BEng of Computer Engineering (CO-OP) | McMaster University | SEPT 2017- APRIL 2021
+
+## Experience
+
+### Full Stack Developer | Ellis Don Enterprise Intelligence		   | May 2019 – AUGUST 2018
+Created responsive and intuitive web applications using React JS and Vue for the Enterprise Intelligence division of EllisDon. Deployed projects using Docker and Kubernetes and used GCP and Azure to run backend services and pipelines for our application.
+
+## Projects
 
 
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Mathuran/mathuran.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mathuran/mathuran.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
