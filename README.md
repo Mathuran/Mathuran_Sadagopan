@@ -27,11 +27,13 @@ Created responsive and intuitive web applications using React JS and Vue for the
 **Skills used: AWS IoT, DynamoDB, C, React.js**
 
 ![](gnomeProject.jpg)
-•	Automated Gardening System built on the NodeMCU, which measures soil moisture, soil and air temperature, and sunlight to determine the best time to water the garden while displaying all the information online
+   After realising i was too lazy to go out and water my own garden my buddies and I wanted to create an automated gardening system built on the NodeMCU. Although connecting all these systems to a garden and making it stream data to a website is overkill we desided to pursue this project inorder to learn more about IOT and what it can do. In this project we will be measuring soil moisture, soil and air temperature, and sunlight to determine the best time to water the garden while displaying all the information online so that garden can be monitored remotely. The frontend of the website is built using react.js and streaming will be done using AWS IOT and Dynamo DB. This project is still in developement so please stay tuned for newer developements!
 
 ### [Whack-A-Mole AR | 2018](https://github.com/Vithop/Wack-A-Bok) 
 **Skills used: Unity, C++, C#**
 
+![](game field2.jpg)
+An Arcade style whack-a-mole game built to be played in augmented reality. Using Google ARcore and Unity game engine we were able to create and environment where players could throw hammers at chickens that pop out of the floor in the space of their room!
 •  Built an interactive game built on Unity using googles’ AR core
 •	Players can throw weapons at Moles that pop out of the floor in AR
 
