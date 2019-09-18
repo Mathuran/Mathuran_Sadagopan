@@ -15,7 +15,7 @@ BEng of Computer Engineering (CO-OP) | McMaster University | SEPT 2017- APRIL 20
 
 ## Experience
 
-### Full Stack Developer at Ellis Don Enterprise Intelligence Divions
+### Full Stack Developer at Ellis Don Enterprise Intelligence Division
 
 May 2019 – AUGUST 2018
 
