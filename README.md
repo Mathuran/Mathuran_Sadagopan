@@ -6,7 +6,7 @@ I'm currently a 3rd-year Computer Engineering Student at McMaster. I'm really in
 
 | Used at | Programming | Hardware Development |3D modelling |
 | ------- | ----------- | -------------------- | ------------ |
-| **Work** |React.js, JavaScript, Vue.js, Java, Go, Git|
+| **Work** |React.js, JavaScript, Vue.js, Java (Android), Git|
 | **School** | C, C++, Java,  MATLAB | FPGA, Verilog, PSpice, MATLAB Simulink | Inventor, 3D printing |
 | **Personal Projects** | React.js, Vue.js, C, Java | Arduino, Raspberry Pi | Inventor, 3D Printing, Cura |
 
@@ -14,10 +14,14 @@ I'm currently a 3rd-year Computer Engineering Student at McMaster. I'm really in
 BEng of Computer Engineering (CO-OP) | McMaster University | SEPT 2017- APRIL 2021
 
 ## Experience
+### Software Engineer Garage Intern | Microsoft Team’s Calling and Meeting devices & Power Toys
+May 2020 – AUGUST 2020
+
+During my internship I worked on various projects within Microsoft, the largest two being Microsoft Teams and Power Toys, As a member of the Teams team, we worked on 5 features that would reduce stress and fatigue during meetings and improve productivity. Developed 3 features for the Teams' Android app, all of which have met Microsoft's production standards and are now being used by 1000’s of people around the world. Research and developed a colour picker prototype for Power Toys; an open-source project that enables highly functional and powerful features on Windows. This prototype was developed using windows presentation foundation for the app but interop with win32 APIs to use lower-level APIs.
 
 ### Full Stack Developer at Ellis Don Enterprise Intelligence Division
 
-May 2019 – AUGUST 2018
+May 2019 – AUGUST 2019
 
 Created responsive and intuitive web applications using React JS and Vue for the Enterprise Intelligence division of EllisDon. Deployed projects using Docker and Kubernetes and used GCP and Azure to run backend services and pipelines for our application.
 
