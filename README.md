@@ -17,7 +17,7 @@ BEng of Computer Engineering (CO-OP) | McMaster University | SEPT 2017- APRIL 20
 ### Software Engineer Garage Intern | Microsoft Team’s Calling and Meeting devices & Power Toys
 May 2020 – AUGUST 2020
 
-During my internship I worked on various projects within Microsoft, the largest two being Microsoft Teams and Power Toys, As a member of the Teams team, we worked on 5 features that would reduce stress and fatigue during meetings and improve productivity. Developed 3 features for the Teams' Android app, all of which have met Microsoft's production standards and are now being used by 1000’s of people around the world. Research and developed a colour picker prototype for Power Toys; an open-source project that enables highly functional and powerful features on Windows. This prototype was developed using windows presentation foundation for the app but interop with win32 APIs to use lower-level APIs.
+During my internship I worked on various projects within Microsoft, the largest two being Microsoft Teams and Power Toys, As a member of the Teams team, we worked on 5 features that would reduce stress and fatigue during meetings and improve productivity. Developed 3 features for the Teams' Android app, using native Android Java. Furthermore all the feature were built to comply with Microsoft and Androids accessibility guildlines. Developed a POC colour picker for Power Toys; an open-source project that enables highly functional and powerful features on Windows. This prototype was developed using windows presentation foundation for the app but interop with win32 APIs to use lower-level APIs.
 
 ### Full Stack Developer at Ellis Don Enterprise Intelligence Division
 
